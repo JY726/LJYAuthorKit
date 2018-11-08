@@ -1,0 +1,6 @@
+framework module LJYConfigKit {
+  umbrella header "LJYConfigKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

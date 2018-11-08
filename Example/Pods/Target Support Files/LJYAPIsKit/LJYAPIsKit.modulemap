@@ -1,0 +1,6 @@
+framework module LJYAPIsKit {
+  umbrella header "LJYAPIsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module LJYMainViewKit {
+  umbrella header "LJYMainViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

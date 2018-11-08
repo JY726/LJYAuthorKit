@@ -1,0 +1,6 @@
+framework module LJYAuthorKit {
+  umbrella header "LJYAuthorKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

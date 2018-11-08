@@ -1,0 +1,51 @@
+{
+  "name": "LJYAuthorKit",
+  "version": "1.0.0",
+  "summary": "author模块",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JY726/LJYAuthorKit.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1048969139@qq.com": "1048969139@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/JY726/LJYAuthorKit.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LJYAuthorKit/Classes/**/*",
+  "dependencies": {
+    "LJYAPIsKit": [
+
+    ],
+    "LJYCategoryKit": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "YYWebImage": [
+
+    ],
+    "LJYConfigKit": [
+
+    ],
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "LJYMainViewKit": [
+
+    ],
+    "LJYReformerKeysKit": [
+
+    ],
+    "LJYToolKit": [
+
+    ]
+  }
+}

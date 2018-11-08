@@ -1,0 +1,6 @@
+framework module LJYCategoryKit {
+  umbrella header "LJYCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module LJYToolKit {
+  umbrella header "LJYToolKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

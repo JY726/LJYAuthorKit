@@ -1,0 +1,6 @@
+framework module LJYReformerKeysKit {
+  umbrella header "LJYReformerKeysKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
